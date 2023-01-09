@@ -1,7 +1,7 @@
 
 [![Colab MLP Train and Inference](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/test2022/blob/main/MODIS_MOD09A1_Snow_Cover_Area.ipynb) <<< PHASE 1 **HEAVY GDAL USAGES
 
-[![Colab MLP Train and Inference on snnow cover](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Snow-cover-area-estimation/blob/main/MLP_Image_training_Parallel.ipynb) <<< PHASE 2 **SWITCHING TO ML WITH ALL BANDS AVAILABLE IN SATELLITE (STILL TTESTING)
+[![Colab MLP Train and Inference on snnow cover](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Snow-cover-area-estimation/blob/main/MLP_SnowCoverEstimate_Image_training_Parallel_JAX.ipynb) <<< PHASE 2 **SWITCHING TO ML WITH ALL BANDS AVAILABLE IN SATELLITE (STILL TTESTING)
       
       
  # Snow-cover-area-estimation
