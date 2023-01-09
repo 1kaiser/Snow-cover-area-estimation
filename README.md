@@ -19,3 +19,8 @@ estimating Snow using NDSI From MODIS satellite Data 2000 to 2021
 <h3 id="%F0%9F%AA%9CSLOPE%F0%9F%AA%9C-DATA-SNOW-COVER-CALCULATOR-%3E%3E%3E"><strong>🪜SLOPE🪜 DATA SNOW COVER CALCULATOR &gt;&gt;&gt;</strong><a href="//github.com/1kaiser/Snow-cover-area-estimation/blob/70163ddcd171061401bb3350d73283e47d69ad89//#%F0%9F%AA%9CSLOPE%F0%9F%AA%9C-DATA-SNOW-COVER-CALCULATOR-%3E%3E%3E" class="anchor-link"></a></h3>
 
 <h3 id="%F0%9F%8C%A1%EF%B8%8FTEMPERATURE-&amp;-%E2%98%94RAINFALL"><strong>🌡️TEMPERATURE &amp; ☔RAINFALL</strong><a href="//github.com/1kaiser/Snow-cover-area-estimation/blob/70163ddcd171061401bb3350d73283e47d69ad89//#%F0%9F%8C%A1%EF%B8%8FTEMPERATURE-&amp;-%E2%98%94RAINFALL" class="anchor-link"></a></h3>
+
+
+
+
+[![Colab MLP Train and Inference on snnow cover](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Snow-cover-area-estimation/blob/main/MLP_Image_training_Parallel.ipynb)
