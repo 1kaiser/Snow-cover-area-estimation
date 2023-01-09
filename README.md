@@ -23,4 +23,4 @@ estimating Snow using NDSI From MODIS satellite Data 2000 to 2021
 
 
 
-[![Colab MLP Train and Inference on snnow cover](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Snow-cover-area-estimation/blob/main/MLP_Image_training_Parallel.ipynb)
+[![Colab MLP Train and Inference on snnow cover](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Snow-cover-area-estimation/blob/main/MLP_SnowCoverEstimate_Image_training_Parallel_JAX.ipynb)
