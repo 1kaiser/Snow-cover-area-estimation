@@ -1,5 +1,4 @@
 
-[![Colab MLP Train and Inference](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Snow-cover-area-estimation/blob/main/MODIS_MOD09A1_Snow_Cover_Area.ipynb) <<< PHASE 1 **HEAVY GDAL USAGES
 
 [![Colab MLP Train and Inference on snnow cover](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Snow-cover-area-estimation/blob/main/MLP_SnowCoverEstimate_Image_training_Parallel_JAX.ipynb) <<< PHASE 2 **PARALLEL SWITCHING TO ML WITH ALL BANDS AVAILABLE IN SATELLITE (STILL TTESTING)
 
@@ -9,6 +8,7 @@
  # Snow-cover-area-estimation
 estimating Snow using NDSI From MODIS satellite Data 2000 to 2021 
 
+[![Colab MLP Train and Inference](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Snow-cover-area-estimation/blob/main/MODIS_MOD09A1_Snow_Cover_Area.ipynb) <<< PHASE 1 **HEAVY GDAL USAGES
 
 <div data-mime-type="text/markdown" class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput">
 <h1 id="%F0%9F%96%A5%EF%B8%8FRUNNING-CODE-FOR-NDSI-MOD09A1.061-8-DAY"><strong>🖥️RUNNING CODE FOR NDSI <em>MOD09A1.061</em> 8 DAY</strong><a href="//github.com/1kaiser/Snow-cover-area-estimation/blob/70163ddcd171061401bb3350d73283e47d69ad89//#%F0%9F%96%A5%EF%B8%8FRUNNING-CODE-FOR-NDSI-MOD09A1.061-8-DAY" class="anchor-link"></a></h1>
