@@ -15,22 +15,45 @@ estimating Snow using NDSI From MODIS satellite Data 2000 to 2021
 
 ![kaiserLEGEND](https://user-images.githubusercontent.com/26379748/212500969-6fee0f02-45b5-44b0-aac3-4dcbbc5baa9f.png)
 
+<table>
+<thead>
+<tr>
+<th><h3 id="%F0%9F%8C%A8%EF%B8%8F%E2%9D%84%EF%B8%8F%F0%9F%8F%94%EF%B8%8F--SNOW-COVER-AREA--%F0%9F%8F%94%EF%B8%8F%E2%9D%84%EF%B8%8F%F0%9F%8C%A8%EF%B8%8F">🌨️❄️🏔️  <strong>SNOW COVER AREA</strong>  🏔️❄️🌨️<a href="//github.com/1kaiser/Snow-cover-area-estimation/blob/70163ddcd171061401bb3350d73283e47d69ad89//#%F0%9F%8C%A8%EF%B8%8F%E2%9D%84%EF%B8%8F%F0%9F%8F%94%EF%B8%8F--SNOW-COVER-AREA--%F0%9F%8F%94%EF%B8%8F%E2%9D%84%EF%B8%8F%F0%9F%8C%A8%EF%B8%8F" class="anchor-link"></a></h3>
+</div></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><h3 id="%F0%9F%9B%97ELEVATION-DATA-SNOW-COVER-CALCULATOR-%3E%3E%3E"><strong>🛗ELEVATION DATA SNOW COVER CALCULATOR &gt;&gt;&gt;</strong><a href="//github.com/1kaiser/Snow-cover-area-estimation/blob/70163ddcd171061401bb3350d73283e47d69ad89//#%F0%9F%9B%97ELEVATION-DATA-SNOW-COVER-CALCULATOR-%3E%3E%3E" class="anchor-link"></a></h3></td>
+</tr>
+<tr>
+<td><h3 id="%E2%9D%84%EF%B8%8FASPECT%F0%9F%A7%AD-DATA-SNOW-COVER-CALCULATOR-%3E%3E%3E"><strong>❄️ASPECT🧭 DATA SNOW COVER CALCULATOR &gt;&gt;&gt;</strong><a href="//github.com/1kaiser/Snow-cover-area-estimation/blob/70163ddcd171061401bb3350d73283e47d69ad89//#%E2%9D%84%EF%B8%8FASPECT%F0%9F%A7%AD-DATA-SNOW-COVER-CALCULATOR-%3E%3E%3E" class="anchor-link"></a></h3></td>
+</tr>
+<tr>
+<td><h3 id="%F0%9F%AA%9CSLOPE%F0%9F%AA%9C-DATA-SNOW-COVER-CALCULATOR-%3E%3E%3E"><strong>🪜SLOPE🪜 DATA SNOW COVER CALCULATOR &gt;&gt;&gt;</strong><a href="//github.com/1kaiser/Snow-cover-area-estimation/blob/70163ddcd171061401bb3350d73283e47d69ad89//#%F0%9F%AA%9CSLOPE%F0%9F%AA%9C-DATA-SNOW-COVER-CALCULATOR-%3E%3E%3E" class="anchor-link"></a></h3></td>
+</tr>
 
-<h3 id="%F0%9F%8C%A8%EF%B8%8F%E2%9D%84%EF%B8%8F%F0%9F%8F%94%EF%B8%8F--SNOW-COVER-AREA--%F0%9F%8F%94%EF%B8%8F%E2%9D%84%EF%B8%8F%F0%9F%8C%A8%EF%B8%8F">🌨️❄️🏔️  <strong>SNOW COVER AREA</strong>  🏔️❄️🌨️<a href="//github.com/1kaiser/Snow-cover-area-estimation/blob/70163ddcd171061401bb3350d73283e47d69ad89//#%F0%9F%8C%A8%EF%B8%8F%E2%9D%84%EF%B8%8F%F0%9F%8F%94%EF%B8%8F--SNOW-COVER-AREA--%F0%9F%8F%94%EF%B8%8F%E2%9D%84%EF%B8%8F%F0%9F%8C%A8%EF%B8%8F" class="anchor-link"></a></h3>
-</div>
+</tbody>
+</table>
 
-<h3 id="%F0%9F%9B%97ELEVATION-DATA-SNOW-COVER-CALCULATOR-%3E%3E%3E"><strong>🛗ELEVATION DATA SNOW COVER CALCULATOR &gt;&gt;&gt;</strong><a href="//github.com/1kaiser/Snow-cover-area-estimation/blob/70163ddcd171061401bb3350d73283e47d69ad89//#%F0%9F%9B%97ELEVATION-DATA-SNOW-COVER-CALCULATOR-%3E%3E%3E" class="anchor-link"></a></h3>
 
-<h3 id="%E2%9D%84%EF%B8%8FASPECT%F0%9F%A7%AD-DATA-SNOW-COVER-CALCULATOR-%3E%3E%3E"><strong>❄️ASPECT🧭 DATA SNOW COVER CALCULATOR &gt;&gt;&gt;</strong><a href="//github.com/1kaiser/Snow-cover-area-estimation/blob/70163ddcd171061401bb3350d73283e47d69ad89//#%E2%9D%84%EF%B8%8FASPECT%F0%9F%A7%AD-DATA-SNOW-COVER-CALCULATOR-%3E%3E%3E" class="anchor-link"></a></h3>
 
-<h3 id="%F0%9F%AA%9CSLOPE%F0%9F%AA%9C-DATA-SNOW-COVER-CALCULATOR-%3E%3E%3E"><strong>🪜SLOPE🪜 DATA SNOW COVER CALCULATOR &gt;&gt;&gt;</strong><a href="//github.com/1kaiser/Snow-cover-area-estimation/blob/70163ddcd171061401bb3350d73283e47d69ad89//#%F0%9F%AA%9CSLOPE%F0%9F%AA%9C-DATA-SNOW-COVER-CALCULATOR-%3E%3E%3E" class="anchor-link"></a></h3>
 
 
 ![kaiserLegendSlopeAspectDem_300](https://user-images.githubusercontent.com/26379748/212500885-7af903f0-bdb5-46b0-a923-66993d5baa6b.png)
 
-<h3 id="%F0%9F%8C%A1%EF%B8%8FTEMPERATURE-&amp;-%E2%98%94RAINFALL"><strong>🌡️TEMPERATURE &amp; ☔RAINFALL</strong><a href="//github.com/1kaiser/Snow-cover-area-estimation/blob/70163ddcd171061401bb3350d73283e47d69ad89//#%F0%9F%8C%A1%EF%B8%8FTEMPERATURE-&amp;-%E2%98%94RAINFALL" class="anchor-link"></a></h3>
 
 
+
+<table>
+<thead>
+<tr>
+
+<tr>
+<td><h3 id="%F0%9F%8C%A1%EF%B8%8FTEMPERATURE-&amp;-%E2%98%94RAINFALL"><strong>🌡️TEMPERATURE &amp; ☔RAINFALL</strong><a href="//github.com/1kaiser/Snow-cover-area-estimation/blob/70163ddcd171061401bb3350d73283e47d69ad89//#%F0%9F%8C%A1%EF%B8%8FTEMPERATURE-&amp;-%E2%98%94RAINFALL" class="anchor-link"></a></h3></td>
+</tr>
+</tbody>
+</table>
 
 
 
