@@ -13,7 +13,7 @@ estimating Snow using NDSI From MODIS satellite Data 2000 to 2021
 <div data-mime-type="text/markdown" class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput">
 <h1 id="%F0%9F%96%A5%EF%B8%8FRUNNING-CODE-FOR-NDSI-MOD09A1.061-8-DAY"><strong>🖥️RUNNING CODE FOR NDSI <em>MOD09A1.061</em> 8 DAY</strong><a href="//github.com/1kaiser/Snow-cover-area-estimation/blob/70163ddcd171061401bb3350d73283e47d69ad89//#%F0%9F%96%A5%EF%B8%8FRUNNING-CODE-FOR-NDSI-MOD09A1.061-8-DAY" class="anchor-link"></a></h1>
 
-![ndsi](https://user-images.githubusercontent.com/26379748/212500938-4f0713b2-c921-4a13-830d-bcae0e1d2333.png)
+![kaiserLEGEND](https://user-images.githubusercontent.com/26379748/212500969-6fee0f02-45b5-44b0-aac3-4dcbbc5baa9f.png)
 
 
 <h3 id="%F0%9F%8C%A8%EF%B8%8F%E2%9D%84%EF%B8%8F%F0%9F%8F%94%EF%B8%8F--SNOW-COVER-AREA--%F0%9F%8F%94%EF%B8%8F%E2%9D%84%EF%B8%8F%F0%9F%8C%A8%EF%B8%8F">🌨️❄️🏔️  <strong>SNOW COVER AREA</strong>  🏔️❄️🌨️<a href="//github.com/1kaiser/Snow-cover-area-estimation/blob/70163ddcd171061401bb3350d73283e47d69ad89//#%F0%9F%8C%A8%EF%B8%8F%E2%9D%84%EF%B8%8F%F0%9F%8F%94%EF%B8%8F--SNOW-COVER-AREA--%F0%9F%8F%94%EF%B8%8F%E2%9D%84%EF%B8%8F%F0%9F%8C%A8%EF%B8%8F" class="anchor-link"></a></h3>
