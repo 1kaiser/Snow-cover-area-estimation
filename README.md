@@ -5,6 +5,7 @@
 [![Colab MLP Train and Inference on snnow cover](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Snow-cover-area-estimation/blob/main/Serial_MLP_Image_Train_Inference_JAX.ipynb) <<< PHASE 2+ **SERIAL SWITCHING TO ML WITH ALL BANDS AVAILABLE IN SATELLITE (STILL TTESTING)**
 
 ![image](https://user-images.githubusercontent.com/26379748/212684755-d1d3934e-20b8-451e-a561-bc5d47132adc.png)
+![download](https://user-images.githubusercontent.com/26379748/212939107-ac3c4809-c8c6-4721-8b86-cdb38d1032a4.png)
 
       
  # Snow-cover-area-estimation
