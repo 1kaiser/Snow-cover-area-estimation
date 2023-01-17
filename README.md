@@ -6,6 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/26379748/212684755-d1d3934e-20b8-451e-a561-bc5d47132adc.png)
 ![download](https://user-images.githubusercontent.com/26379748/212939107-ac3c4809-c8c6-4721-8b86-cdb38d1032a4.png)
+![download (11)](https://user-images.githubusercontent.com/26379748/213005811-a9408255-b9c9-4e11-9289-41dd801871e0.png)
 
       
  # Snow-cover-area-estimation
