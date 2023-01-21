@@ -1,14 +1,53 @@
+<table>
+<thead>
+<tr>
+<td>
+
+
+
 
 
 [![Colab MLP Train and Inference on snnow cover](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Snow-cover-area-estimation/blob/main/MLP_SnowCoverEstimate_Image_training_Parallel_JAX.ipynb) <<< PHASE 2 **PARALLEL SWITCHING TO ML WITH ALL BANDS AVAILABLE IN SATELLITE (STILL TTESTING)**
 
 [![Colab MLP Train and Inference on snnow cover](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Snow-cover-area-estimation/blob/main/Serial_MLP_Image_Train_Inference_JAX.ipynb) <<< PHASE 2+ **SERIAL SWITCHING TO ML WITH ALL BANDS AVAILABLE IN SATELLITE (STILL TTESTING)**
 
+
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<table>
+<thead>
+<tr>
+<td>
+
+
+
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3kzcvsc9Q4E/0.jpg)](https://www.youtube.com/watch?v=3kzcvsc9Q4E)
+
+ 
 ![image](https://user-images.githubusercontent.com/26379748/212684755-d1d3934e-20b8-451e-a561-bc5d47132adc.png)
 ![download](https://user-images.githubusercontent.com/26379748/212939107-ac3c4809-c8c6-4721-8b86-cdb38d1032a4.png)
 ![download (11)](https://user-images.githubusercontent.com/26379748/213005811-a9408255-b9c9-4e11-9289-41dd801871e0.png)
 
-      
+
+</td>
+</tr>
+</tbody>
+</table>
+   
+   
+
+   
+<table>
+<thead>
+<tr>
+<td>
+
+     
+     
  # Snow-cover-area-estimation
 **Estimating Snow using NDSI From MODIS satellite Data 2000 to 2021**
 
@@ -18,6 +57,14 @@
 <h1 id="%F0%9F%96%A5%EF%B8%8FRUNNING-CODE-FOR-NDSI-MOD09A1.061-8-DAY"><strong>🖥️RUNNING CODE FOR NDSI <em>MOD09A1.061</em> 8 DAY</strong><a href="//github.com/1kaiser/Snow-cover-area-estimation/blob/70163ddcd171061401bb3350d73283e47d69ad89//#%F0%9F%96%A5%EF%B8%8FRUNNING-CODE-FOR-NDSI-MOD09A1.061-8-DAY" class="anchor-link"></a></h1>
 
 ![kaiserLEGEND](https://user-images.githubusercontent.com/26379748/212500969-6fee0f02-45b5-44b0-aac3-4dcbbc5baa9f.png)
+
+
+</td>
+</tr>
+</tbody>
+</table>
+
+
 
 <table>
 <thead>
@@ -42,11 +89,20 @@
 
 
 
+<table>
+<thead>
+<tr>
+<td>
+
 
 
 ![kaiserLegendSlopeAspectDem_300](https://user-images.githubusercontent.com/26379748/212500885-7af903f0-bdb5-46b0-a923-66993d5baa6b.png)
 
 
+</td>
+</tr>
+</tbody>
+</table>
 
 
 <table>
@@ -59,6 +115,21 @@
 </tbody>
 </table>
 
+
+<table>
+<thead>
+<tr>
+<td>
+
+
+
 ![image](https://user-images.githubusercontent.com/26379748/212536260-bea2e7c8-b92b-4299-b911-8d36dd302a09.png)
+
+
+
+</td>
+</tr>
+</tbody>
+</table>
 
 
