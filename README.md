@@ -1,44 +1,4 @@
-<table>
-<thead>
-<tr>
-<td>
 
-
-
-
-
-[![Colab MLP Train and Inference on snnow cover](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Snow-cover-area-estimation/blob/main/MLP_SnowCoverEstimate_Image_training_Parallel_JAX.ipynb) <<< PHASE 2 **PARALLEL SWITCHING TO ML WITH ALL BANDS AVAILABLE IN SATELLITE (STILL TTESTING)**
-
-[![Colab MLP Train and Inference on snnow cover](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Snow-cover-area-estimation/blob/main/Serial_MLP_Image_Train_Inference_JAX.ipynb) <<< PHASE 2+ **SERIAL SWITCHING TO ML WITH ALL BANDS AVAILABLE IN SATELLITE (STILL TTESTING)**
-
-
-</td>
-</tr>
-</tbody>
-</table>
-
-
-<table>
-<thead>
-<tr>
-<td>
-
-
-
-  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3kzcvsc9Q4E/0.jpg)](https://www.youtube.com/watch?v=3kzcvsc9Q4E)
-
- 
-![image](https://user-images.githubusercontent.com/26379748/212684755-d1d3934e-20b8-451e-a561-bc5d47132adc.png)
-![download](https://user-images.githubusercontent.com/26379748/212939107-ac3c4809-c8c6-4721-8b86-cdb38d1032a4.png)
-![download (11)](https://user-images.githubusercontent.com/26379748/213005811-a9408255-b9c9-4e11-9289-41dd801871e0.png)
-
-
-</td>
-</tr>
-</tbody>
-</table>
-   
-   
 
    
 <table>
@@ -133,3 +93,52 @@
 </table>
 
 
+<tr>
+<td><h3 ><strong> >> PHASE 2 <<</strong></h3></td>
+</tr>
+
+
+
+
+
+<table>
+<thead>
+<tr>
+<td>
+
+
+
+
+
+[![Colab MLP Train and Inference on snnow cover](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Snow-cover-area-estimation/blob/main/MLP_SnowCoverEstimate_Image_training_Parallel_JAX.ipynb) <<< PHASE 2 **PARALLEL SWITCHING TO ML WITH ALL BANDS AVAILABLE IN SATELLITE (STILL TTESTING)**
+
+[![Colab MLP Train and Inference on snnow cover](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Snow-cover-area-estimation/blob/main/Serial_MLP_Image_Train_Inference_JAX.ipynb) <<< PHASE 2+ **SERIAL SWITCHING TO ML WITH ALL BANDS AVAILABLE IN SATELLITE (STILL TTESTING)**
+
+
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<table>
+<thead>
+<tr>
+<td>
+
+
+
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3kzcvsc9Q4E/0.jpg)](https://www.youtube.com/watch?v=3kzcvsc9Q4E)
+
+ 
+![image](https://user-images.githubusercontent.com/26379748/212684755-d1d3934e-20b8-451e-a561-bc5d47132adc.png)
+![download](https://user-images.githubusercontent.com/26379748/212939107-ac3c4809-c8c6-4721-8b86-cdb38d1032a4.png)
+![download (11)](https://user-images.githubusercontent.com/26379748/213005811-a9408255-b9c9-4e11-9289-41dd801871e0.png)
+
+
+</td>
+</tr>
+</tbody>
+</table>
+   
+   
