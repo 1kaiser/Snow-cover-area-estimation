@@ -8,7 +8,8 @@
 
      
      
- # Snow-cover-area-estimation
+ # <div align="center">🏔️  Snow Cover Area Estimation 🗻</div>
+
 **Estimating Snow using NDSI From MODIS satellite Data 2000 to 2021**
 
 [![Colab MLP Train and Inference](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Snow-cover-area-estimation/blob/main/MODIS_MOD09A1_Snow_Cover_Area.ipynb) <<< PHASE 1 **HEAVY GDAL USAGES**
