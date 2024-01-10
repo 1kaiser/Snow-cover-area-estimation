@@ -9,6 +9,7 @@
      
      
  # <div align="center">🏔️  Snow Cover Area Estimation 🗻</div>
+![Screenshot from 2024-01-11 01-22-07](https://github.com/1kaiser/Snow-cover-area-estimation/assets/26379748/aaadba69-d3d3-4cd3-a184-2b9a3b4dcfe0)
 
 **Estimating Snow using NDSI From MODIS satellite Data 2000 to 2021**
 
