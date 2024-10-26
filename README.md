@@ -142,5 +142,46 @@
 </tr>
 </tbody>
 </table>
+
+## Citation
+<table>
+<thead>
+<tr>
+<td>
+
+This implementation is provided for academic use only. if you use this code or any of the models, the following citation should be used.
+```
+@article{roy2024beas,
+  title={Beas Basin Snow Area Health Monitoring Utilizing Remote Sensing with Elevation Zones and Aspect},
+  author={Roy, K and Kant, C and Meena, RS},
+  journal={Geospatial Technology for Natural Resource Management},
+  pages={321--341},
+  year={2024},
+  publisher={Wiley Online Library}
+}
+```
+```
+@article{kant2024deciphering,
+  title={Deciphering Snow-cover Dynamics: Terrain Analysis in the Mountainous River Basin, Western Himalayas},
+  author={Kant, Chander and Roy, Kaiser and Meena, Ray Singh and Kumar, Brijesh and Lakshmi, Venkataraman},
+  journal={Water Conservation Science and Engineering},
+  volume={9},
+  number={2},
+  pages={70},
+  year={2024},
+  publisher={Springer}
+}
+```
+```
+@article{royspatio,
+  title={Spatio-Temporal Snow Cover Health Analysis of Western Himalayan River Basin by Elevation Zones},
+  author={Roy, Kaiser and Kant, Chander and Meena, Ray Singh}
+}
+```
+
+</td>
+</tr>
+</tbody>
+</table>
    
    
