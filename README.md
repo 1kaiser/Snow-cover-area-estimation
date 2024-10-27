@@ -143,14 +143,14 @@
 </tbody>
 </table>
 
-## Citation
+## 📚 Citations
 <table>
 <thead>
 <tr>
 <td>
 
-This implementation is provided for academic use only. if you use this code or any of the models, the following citation should be used.
-```
+the following are the related citations.
+```bibtex
 @article{roy2024beas,
   title={Beas Basin Snow Area Health Monitoring Utilizing Remote Sensing with Elevation Zones and Aspect},
   author={Roy, K and Kant, C and Meena, RS},
@@ -160,7 +160,7 @@ This implementation is provided for academic use only. if you use this code or a
   publisher={Wiley Online Library}
 }
 ```
-```
+```bibtex
 @article{kant2024deciphering,
   title={Deciphering Snow-cover Dynamics: Terrain Analysis in the Mountainous River Basin, Western Himalayas},
   author={Kant, Chander and Roy, Kaiser and Meena, Ray Singh and Kumar, Brijesh and Lakshmi, Venkataraman},
@@ -172,7 +172,7 @@ This implementation is provided for academic use only. if you use this code or a
   publisher={Springer}
 }
 ```
-```
+```bibtex
 @article{royspatio,
   title={Spatio-Temporal Snow Cover Health Analysis of Western Himalayan River Basin by Elevation Zones},
   author={Roy, Kaiser and Kant, Chander and Meena, Ray Singh}
